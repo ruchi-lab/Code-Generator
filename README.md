@@ -1,2 +1,2 @@
-# Code-Gnerator
+# Code-Generator
 Personal project
